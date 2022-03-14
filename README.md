@@ -1,4 +1,4 @@
-# 키보드 관련 정보 모음
+# 커스텀 키보드 관련 정보 모음
 
 ## 각종 판매처
 
@@ -20,6 +20,7 @@
 - Owlab([디스코드](https://discord.gg/Owlab))
 - Glorious([홈페이지](https://www.pcgamingrace.com/))
 - Angry Miao([홈페이지](https://www.angrymiao.com/))
+- Shopmech([홈페이지](https://shopmech.com/))
 
 ### 바디
 
@@ -32,7 +33,14 @@
 ### 키캡
 
 - 사오파오([스마트스토어](https://smartstore.naver.com/saopao))
+- 라온웨이([스마스스토어](https://smartstore.naver.com/raonway))
 - osume([홈페이지](https://www.osumekeys.com/))
+
+### 케이블
+
+- 타이니그램([홈페이지](https://tinygram.store/))
+- MechSeoul([스마트스토어](https://smartstore.naver.com/mechseoul))
+- GeekCable([쇼핑몰](https://www.etsy.com/shop/GeekCable))
 
 ### 기타
 
