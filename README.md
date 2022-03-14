@@ -19,6 +19,7 @@
 - Kinetic Labs([홈페이지](https://kineticlabs.store/))
 - Owlab([디스코드](https://discord.gg/Owlab))
 - Glorious([홈페이지](https://www.pcgamingrace.com/))
+- Angry Miao([홈페이지](https://www.angrymiao.com/))
 
 ### 바디
 
