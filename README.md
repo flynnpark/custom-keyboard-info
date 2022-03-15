@@ -21,6 +21,7 @@
 - Glorious([홈페이지](https://www.pcgamingrace.com/))
 - Angry Miao([홈페이지](https://www.angrymiao.com/))
 - Shopmech([홈페이지](https://shopmech.com/))
+- Keyboardio([홈페이지](https://shop.keyboard.io/))
 
 ### 바디
 
