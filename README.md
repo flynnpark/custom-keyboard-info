@@ -2,13 +2,24 @@
 
 ## 각종 판매처
 
-### 종합
+### 국내
 
 - 스웨그키([홈페이지,](https://swagkey.kr/) [스마트스토어](https://smartstore.naver.com/swagkey))
+- 지온웍스([스마트스토어](https://smartstore.naver.com/geonlab))
 - 키크론([영문 홈페이지](https://www.keychron.com/), [한국 홈페이지](https://keychron.kr/), [스마트스토어](https://brand.naver.com/keychron))
 - TX키보드([홈페이지](https://txkeyboard.com/))
+- 렛츠기릿([스마트스토어](https://smartstore.naver.com/letsget1t)]
+- 스튜디오 그린필드([스마트스토어](https://smartstore.naver.com/greenfield_))
 - 몬스타기어([홈페이지](https://www.monstargear.co.kr/), [스마트스토어](https://smartstore.naver.com/monstarkorea))
+- KMG([스마트스토어](https://smartstore.naver.com/happykmg))
 - VARO몰([스마트스토어](https://smartstore.naver.com/varomall))
+- 사오파오([스마트스토어](https://smartstore.naver.com/saopao))
+- 라온웨이([스마스스토어](https://smartstore.naver.com/raonway))
+- 타이니그램([홈페이지](https://tinygram.store/))
+- MechSeoul([스마트스토어](https://smartstore.naver.com/mechseoul))
+
+### 글로벌
+
 - KBDfans([홈페이지](https://kbdfans.com/))
 - NovelKeys([홈페이지](https://novelkeys.com/))
 - Mode Designs([홈페이지](https://modedesigns.com/))
@@ -17,32 +28,12 @@
 - Kono Store([홈페이지](https://kono.store/))
 - Mozano([홈페이지](https://www.mozanox.com/))
 - Kinetic Labs([홈페이지](https://kineticlabs.store/))
-- Owlab([디스코드](https://discord.gg/Owlab))
 - Glorious([홈페이지](https://www.pcgamingrace.com/))
 - Angry Miao([홈페이지](https://www.angrymiao.com/))
 - Shopmech([홈페이지](https://shopmech.com/))
 - Keyboardio([홈페이지](https://shop.keyboard.io/))
-
-### 바디
-
-- 지온웍스([스마트스토어](https://smartstore.naver.com/geonlab))
-- KMG([스마트스토어](https://smartstore.naver.com/happykmg))
 - Wuque Studio([홈페이지](https://shop.wuquestudio.com/))
 - Keycult([홈페이지](https://keycult.com/))
 - Qwertykeys([홈페이지](https://qwertykeys.com/))
-
-### 키캡
-
-- 사오파오([스마트스토어](https://smartstore.naver.com/saopao))
-- 라온웨이([스마스스토어](https://smartstore.naver.com/raonway))
 - osume([홈페이지](https://www.osumekeys.com/))
-
-### 케이블
-
-- 타이니그램([홈페이지](https://tinygram.store/))
-- MechSeoul([스마트스토어](https://smartstore.naver.com/mechseoul))
 - GeekCable([쇼핑몰](https://www.etsy.com/shop/GeekCable))
-
-### 기타
-
-- 스튜디오 그린필드([스마트스토어](https://smartstore.naver.com/greenfield_))
