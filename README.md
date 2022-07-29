@@ -37,3 +37,10 @@
 - Qwertykeys([홈페이지](https://qwertykeys.com/))
 - osume([홈페이지](https://www.osumekeys.com/))
 - GeekCable([쇼핑몰](https://www.etsy.com/shop/GeekCable))
+
+## 유튜브
+
+- [:3ildcat](https://www.youtube.com/c/3ildcat)
+- [드보키 DBOKEY](https://www.youtube.com/c/%EB%93%9C%EB%B3%B4%ED%82%A4DBOKEY)
+- [NAOGOL](https://www.youtube.com/channel/UCrfly9I5cfCVZ_yi9LEnPyg)
+- [Taeha Types](https://www.youtube.com/channel/UCMHXMAeKkI6HXlPfLiYvo9g)
