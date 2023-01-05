@@ -17,6 +17,7 @@
 - 라온웨이([스마스스토어](https://smartstore.naver.com/raonway))
 - 타이니그램([홈페이지](https://tinygram.store/))
 - MechSeoul([스마트스토어](https://smartstore.naver.com/mechseoul))
+- 스튜디오 그림필드([스마트스토어](https://smartstore.naver.com/greenfield_))
 
 ### 글로벌
 
